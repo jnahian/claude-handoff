@@ -1,0 +1,8 @@
+{
+  "name": "handoff",
+  "version": "0.1.0",
+  "description": "Hands a long Claude Code session to a fresh one through a written handoff document, before compaction summarizes the context away.",
+  "author": { "name": "jnahian" },
+  "repository": "https://github.com/jnahian/claude-handoff",
+  "keywords": ["handoff", "context", "compaction", "session"]
+}

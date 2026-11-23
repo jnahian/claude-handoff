@@ -1,0 +1,12 @@
+{
+  "name": "claude-handoff",
+  "owner": { "name": "jnahian" },
+  "description": "The handoff plugin for Claude Code: hand a long session to a fresh one through a written document.",
+  "plugins": [
+    {
+      "name": "handoff",
+      "source": "./",
+      "description": "Hands a long Claude Code session to a fresh one through a written handoff document, before compaction summarizes the context away."
+    }
+  ]
+}
